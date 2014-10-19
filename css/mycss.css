@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #EEFFFF;
+    font-size: 20px;
+    font-family: 'euler';
+    overflow: auto;
+}
+
+#content{
+    margin: 0 auto;
+    width: 80%;
+    height: 700px;
+}
+
+#loveHeart{
+    width: 100%;
+    height: 80%;
+}
+
+#words{
+    width: 100%;
+    height: 20%;
+}
+
+#garden {
+    width: 100%;
+    height: 100%;
+}
+
+#eqution{
+    width: 334px;
+    margin: 0 auto;
+}
+
+#copyright{
+    text-align: right;
+    font-size: 10px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
